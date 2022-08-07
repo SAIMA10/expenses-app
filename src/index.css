@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat|Raleway|Roboto:wght@200&display=swap');
+
+* {
+  box-sizing: border-box;
+  /*without it the boxes look more bigger since it adds padding and border to the width/height
+  border box it allows us to include the padding and border in an element's total width and height.*/
+} 
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #def2f1;
+}
